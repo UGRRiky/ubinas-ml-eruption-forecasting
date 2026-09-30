@@ -17,7 +17,7 @@ from datetime import datetime
 # RUTAS
 # ──────────────────────────────────────────────────────────────────────────
 # Edita BASE_DATA a la carpeta donde están tus 4 CSV crudos + el catálogo 2023.
-BASE_DATA = Path(r"/mnt/i/ACTIVIDADES/2024/02_proyecto_SINFRA/RES/zed/data_input_paper")
+BASE_DATA = Path(r"../data")
 # INTERMEDIATE anclado a la carpeta de ESTE archivo (no al directorio de
 # ejecución), para que el pipeline encuentre sus parquet/modelos sin importar
 # desde dónde se lance. Antes era relativo y creaba una carpeta vacía distinta
