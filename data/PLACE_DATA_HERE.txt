@@ -1,0 +1,8 @@
+Place the four per-minute parameter CSV files here before running the pipeline:
+
+  Parametros_7params_UB1_BHZ_20230101_to_20231231_wd.csv
+  Parametros_7params_UB2_BHZ_20230101_to_20231231_wd.csv
+  Parametros_7params_UB4_BHZ_20230101_to_20231231_wd.csv
+  Parametros_7params_UB4_BHZ_20180814_to_20191231_wd.csv
+
+See README.md, Section 3, for the expected column format.
